@@ -1,5 +1,9 @@
 # Encoding base64 in Python
 
+# Requirements:
+# pip install base64
+# pip install pwinput
+
 import base64
 import pwinput
 
